@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Blog by Sebastian Zając
 ---
 
