@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "My Blog"
+title                    : "Blog by Sebastian"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sebastian"
@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Zając"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "|Quantum ML> <Graph Theory| "
+  avatar           : "/assets/profilepic.jpg"
+  bio              : "Quantum Machine Learning "
   location         : "Warsaw"
   email            :
   links:
