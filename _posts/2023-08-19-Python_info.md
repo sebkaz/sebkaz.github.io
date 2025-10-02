@@ -1,6 +1,18 @@
 ---
 title: "Python vs. Julia for Mathematical Calculations: Unveiling a Common Pitfall"
 date: 2023-08-19
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 
 Hello, fellow explorers of the computational universe! Today, we're diving into the heart of a question that many mathematical minds grapple with: What sets Python and Julia apart, and which one reigns supreme?
